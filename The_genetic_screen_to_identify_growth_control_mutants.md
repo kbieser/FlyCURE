@@ -54,9 +54,7 @@ The mutation that we are studying is recessive lethal; heterozygotes have normal
 
 To generate homozygous mutant cells, the yeast FLP recombinase protein is used. This protein induces mitotic recombination between homologous chromosomes at target sites, which are called FRT sites.
 
-In this experiment, the FRT sites are in cytological location 42D on the right arm of the 2nd chromosome. The figure below shows this location, which is very close to the centromere.
-
-[Link to 2R image](2R_image.jpg)
+In this experiment, the FRT sites are in cytological location 42D on the right arm of the 2nd chromosome. The [figure below](2R_image.jpg) shows this location, which is very close to the centromere.
 
 ![Link to 2R image](2R_image.jpg)
 
