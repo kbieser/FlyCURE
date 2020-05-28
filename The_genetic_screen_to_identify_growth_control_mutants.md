@@ -31,9 +31,9 @@ Read the following sections in the paper “Genetics on the fly: A primer on the
 - Mutation
 - Apoptosis
 
-### introduction
+### Introduction
 
-#### **A screen to identify growth control mutants in Drosophila**
+#### **A screen to identify growth control mutants in _Drosophila_**
 
 One strategy used by geneticists to identify genes involved in a particular biological process is a genetic screen. Mutations are induced in the experimental organisms, which are then examined to identify individuals with the phenotype of interest. In this lab, we will be analyzing a mutant that were generated in a screen to identify mutations that lead to cell overgrowth in _Drosophila_.
 
@@ -56,11 +56,15 @@ To generate homozygous mutant cells, the yeast FLP recombinase protein is used. 
 
 In this experiment, the FRT sites are in cytological location 42D on the right arm of the 2nd chromosome. The figure below shows this location, which is very close to the centromere.
 
+[Link to 2R_image](2R_image.tif)
+
 ![Link to 2R_image](2R_image.tif)
 
 In the original growth control screen, male flies with the genotype _w;FRT42D,Ark82_ were fed the mutagen ethyl methanesulfonate (EMS), which induces single nucleotide substitutions. These males were then crossed to females containing the _CyO_ balancer chromosome to generate offspring with the genotype _w;FRT42D,Ark82_, * /_CyO_.
 
-The _w;FRT42D,Ark82,*/CyO_ flies have a mutant _white (w)_ gene on the X chromosome. The normal function of the w gene is to produce red eye pigment, and so you would expect these males to have white eyes. However the _Ark_ gene is also mutated in these males, because a _w_ transgene has been inserted into the wild-type _Ark_ gene to create the _Ark82_ mutant allele. These males therefore contain a copy of the _w_ gene on the second chromosome, which offsets the mutant _w_ allele on the X chromosome, and so they have red eyes. This is the genotype of the stocks that you examined in week 1, and is shown below. 
+The _w;FRT42D,Ark82,*/CyO_ flies have a mutant _white (w)_ gene on the X chromosome. The normal function of the w gene is to produce red eye pigment, and so you would expect these males to have white eyes. However the _Ark_ gene is also mutated in these males, because a _w_ transgene has been inserted into the wild-type _Ark_ gene to create the _Ark82_ mutant allele. These males therefore contain a copy of the _w_ gene on the second chromosome, which offsets the mutant _w_ allele on the X chromosome, and so they have red eyes. This is the genotype of the stocks that you examined in week 1, and is shown below.
+
+[Link to heterozygous_genotype](Heterozygous_genotype.tif)
 
 ![Link to heterozygous_genotype](Heterozygous_genotype.tif)
 
