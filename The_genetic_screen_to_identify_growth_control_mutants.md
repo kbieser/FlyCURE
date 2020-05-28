@@ -56,9 +56,9 @@ To generate homozygous mutant cells, the yeast FLP recombinase protein is used. 
 
 In this experiment, the FRT sites are in cytological location 42D on the right arm of the 2nd chromosome. The figure below shows this location, which is very close to the centromere.
 
-[Link to 2R image](2R_image.tif)
+[Link to 2R image](2R_image.jpg)
 
-![Link to 2R image](2R_image.tif)
+![Link to 2R image](2R_image.jpg)
 
 In the original growth control screen, male flies with the genotype _w;FRT42D,Ark82_ were fed the mutagen ethyl methanesulfonate (EMS), which induces single nucleotide substitutions. These males were then crossed to females containing the _CyO_ balancer chromosome to generate offspring with the genotype _w;FRT42D,Ark82_, * /_CyO_.
 
