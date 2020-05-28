@@ -48,3 +48,10 @@ A. _____________________________________
 B. _____________________________________
 
 C. ______________________________________
+
+### **Data:**
+By the end of lab today, use CamScanner to take pictures and upload the pages with questions from your lab manual for week 1 to the assignment link in canvas as a pdf.
+Before lab next week, create the following figure (be sure to include a descriptive figure caption/legend, text, and title) and upload to canvas before lecture. For help with what these mean, see your Handbook for Writing in Biology (pgs. 67-70). This should be the only figure submitted. Use a figure panel to include all images required within a single figure.   
+
+- **Figure 1:**
+Depiction of the differences between (A) male (♂) and female (♀), (B) straight and curly wings, and (C) red and white eyes in _Drosophila melanogaster_.
