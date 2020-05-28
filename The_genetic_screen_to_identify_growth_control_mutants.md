@@ -72,8 +72,8 @@ The cross is diagrammed below:
 
 In the presence of FLP recombinase, mitotic recombination between FRT sites occurs. This results in an exchange of chromosome arms distal to the FRT sites, and may lead to cells that are homozygous for either the _Ark82_, * chromosome or the wild type chromosome. Since the _Ark82_ allele contains the _w_ transgene, _Ark82_, * homozygous cells are red. On the other hand, the homozygous wild type cells are white.
 
- [Link to Mosaic eye genotype diagram](Mosaic_eye_genotype.jpg)
-! [Link to Mosaic eye genotype diagram](Mosaic_eye_genotype.jpg)
+[Link to Mosaic eye genotype diagram](Mosaic_eye_genotype.jpg)
+![Link to Mosaic eye genotype diagram](Mosaic_eye_genotype.jpg)
 
 ## Protocol:
 Each laboratory group will collect two vials of progeny from the following crosses:
