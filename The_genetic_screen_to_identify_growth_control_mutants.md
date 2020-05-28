@@ -60,11 +60,20 @@ In this experiment, the FRT sites are in cytological location 42D on the right a
 
 In the original growth control screen, male flies with the genotype _w;FRT42D,Ark82_ were fed the mutagen ethyl methanesulfonate (EMS), which induces single nucleotide substitutions. These males were then crossed to females containing the _CyO_ balancer chromosome to generate offspring with the genotype _w;FRT42D,Ark82_, * /_CyO_.
 
-The _w;FRT42D,Ark82,*/CyO_ flies have a mutant _white (w)_ gene on the X chromosome. The normal function of the w gene is to produce red eye pigment, and so you would expect these males to have white eyes. However the _Ark_ gene is also mutated in these males, because a _w_ transgene has been inserted into the wild-type _Ark_ gene to create the _Ark82_ mutant allele. These males therefore contain a copy of the _w_ gene on the second chromosome, which offsets the mutant _w_ allele on the X chromosome, and so they have red eyes. This is the genotype of the stocks that you examined in week 1, and is shown below.
-
-[Link to heterozygous_genotype](Heterozygous_genotype.jpg)
+The _w;FRT42D,Ark82,*/CyO_ flies have a mutant _white (w)_ gene on the X chromosome. The normal function of the w gene is to produce red eye pigment, and so you would expect these males to have white eyes. However the _Ark_ gene is also mutated in these males, because a _w_ transgene has been inserted into the wild-type _Ark_ gene to create the _Ark82_ mutant allele. These males therefore contain a copy of the _w_ gene on the second chromosome, which offsets the mutant _w_ allele on the X chromosome, and so they have red eyes. This is the genotype of the stocks that you examined in week 1, and is [shown below](Heterozygous_genotype.jpg).
 
 ![Link to heterozygous_genotype](Heterozygous_genotype.jpg)
+
+Mitotic recombination is induced when the FLP recombinase binds to FRT sites on both homologous chromosomes. The FLP recombinase and another FRT site-containing second chromosome will be introduced by crossing males from the mutant stock shown in Figure 2 to females of the genotype _w,ey>FLP;FRT42D_. The _ey>FLP_ gene produces FLP recombinase under the control of the _eyeless (ey)_ promoter, which is expressed only in the developing eye. Note that these females are homozygous for the _w_ mutation, and so have white eyes.
+
+The cross is diagrammed below:
+[Link to diagrammed _Ey>Flp_Cross](EyFlp_Cross.jpg)
+![Link to diagrammed _Ey>Flp_Cross](EyFlp_Cross.jpg)
+
+In the presence of FLP recombinase, mitotic recombination between FRT sites occurs. This results in an exchange of chromosome arms distal to the FRT sites, and may lead to cells that are homozygous for either the _Ark82_, * chromosome or the wild type chromosome. Since the _Ark82_ allele contains the _w_ transgene, _Ark82_, * homozygous cells are red. On the other hand, the homozygous wild type cells are white.
+
+ [Link to Mosaic eye genotype diagram](Mosaic_eye_genotype.jpg)
+! [Link to Mosaic eye genotype diagram](Mosaic_eye_genotype.jpg)
 
 ## Protocol:
 Each laboratory group will collect two vials of progeny from the following crosses:
